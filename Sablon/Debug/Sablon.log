@@ -1,0 +1,7 @@
+﻿  Piece.cpp
+  main.cpp
+C:\Users\Korisnik\OneDrive\Radna površina\New folder\RG Teksture\Teksture\main.cpp(138,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\OneDrive\Radna površina\New folder\RG Teksture\Teksture\main.cpp(145,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Korisnik\OneDrive\Radna površina\New folder\RG Teksture\Teksture\main.cpp(768,22): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+  Generating Code...
+  Sablon.vcxproj -> C:\Users\Korisnik\OneDrive\Radna površina\New folder\RG Teksture\Teksture\Debug\Sablon.exe

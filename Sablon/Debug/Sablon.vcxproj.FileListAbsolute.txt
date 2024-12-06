@@ -1,0 +1,2 @@
+C:\Users\Korisnik\OneDrive\Radna površina\RG Teksture\Teksture\Debug\glew32.dll
+C:\Users\Korisnik\OneDrive\Radna površina\New folder\RG Teksture\Teksture\Debug\glew32.dll
